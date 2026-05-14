@@ -1,0 +1,6 @@
+@FleetControlApi_HostAddress = http://localhost:5095
+
+GET {{FleetControlApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
