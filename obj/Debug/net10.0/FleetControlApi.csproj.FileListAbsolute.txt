@@ -1,0 +1,9 @@
+C:\Projetos\FleetControlApi\FleetControlApi\obj\Debug\net10.0\FleetControlApi.csproj.AssemblyReference.cache
+C:\Projetos\FleetControlApi\FleetControlApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Projetos\FleetControlApi\FleetControlApi\obj\Debug\net10.0\FleetControlApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\FleetControlApi\FleetControlApi\obj\Debug\net10.0\FleetControlApi.AssemblyInfoInputs.cache
+C:\Projetos\FleetControlApi\FleetControlApi\obj\Debug\net10.0\FleetControlApi.AssemblyInfo.cs
+C:\Projetos\FleetControlApi\FleetControlApi\obj\Debug\net10.0\FleetControlApi.csproj.CoreCompileInputs.cache
+C:\Projetos\FleetControlApi\FleetControlApi\obj\Debug\net10.0\FleetControlApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\FleetControlApi\FleetControlApi\obj\Debug\net10.0\FleetControlApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\FleetControlApi\FleetControlApi\obj\Debug\net10.0\FleetControlApi.sourcelink.json
